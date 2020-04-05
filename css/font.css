@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "dark-dashboard";
-  src:url("../fonts/dark-dashboard.eot");
-  src:url("../fonts/dark-dashboard.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/dark-dashboard.woff") format("woff"),
-    url("../fonts/dark-dashboard.ttf") format("truetype"),
-    url("../fonts/dark-dashboard.svg#dark-dashboard") format("svg");
+  src:url("https://rawcdn.githack.com/chait83/E2EScripts/6948d165fa1e36d0e957046e4eef2d4c58b4af01/css/dark-dashboard.eot");
+  src:url("https://rawcdn.githack.com/chait83/E2EScripts/6948d165fa1e36d0e957046e4eef2d4c58b4af01/css/dark-dashboard.eot?#iefix") format("embedded-opentype"),
+    url("https://rawcdn.githack.com/chait83/E2EScripts/6948d165fa1e36d0e957046e4eef2d4c58b4af01/css/dark-dashboard.woff") format("woff"),
+    url(""https://rawcdn.githack.com/chait83/E2EScripts/6948d165fa1e36d0e957046e4eef2d4c58b4af01/css/dark-dashboard.ttf") format("truetype"),
+    url("https://rawcdn.githack.com/chait83/E2EScripts/6948d165fa1e36d0e957046e4eef2d4c58b4af01/css/dark-dashboard.svg#dark-dashboard") format("svg");
   font-weight: normal;
   font-style: normal;
 
