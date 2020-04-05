@@ -1,0 +1,64 @@
+.subMsg{
+    margin: 0.5rem 0 0 0;
+}
+
+.errTxt{
+    background-color: #9B001A50;
+    border: 1px solid tomato;
+    border-radius: 0;
+    color: #eec;
+    padding: 0.45rem 0.75rem;
+    width: 100%;
+}
+
+.divMsg{
+    margin: 0 0 0 1rem;
+}
+.hHeader{
+    color: #DB6574;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.reqLnk{
+text-decoration: none;
+color:inherit;
+}
+.reqLnk:hover{
+text-decoration: none;
+color:#FBA5B4
+}
+
+
+.logInst{
+    font-size: 1.2rem;
+    color: #fda;
+}
+.logHeader{
+    color: #fda;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.req{
+    font-size: 0.6rem;
+    margin: 0 0.3rem 0 0;
+    color: #DB6574;
+}
+
+.fnc{
+    color:#DB6574 ; 
+    padding: 0 0.5rem 0 0;
+}
+.descHeader{
+    text-transform: capitalize;
+}
+.titleHeader{
+    text-transform: capitalize;
+    color: #DB6574;
+}
+.HText{
+    text-transform: capitalize;
+    color: #fda;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
